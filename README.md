@@ -864,7 +864,7 @@ If you find this project helpful, please consider:
 
 ---
 
-**Made with ❤️ by the community**
+**Made with ❤️ for the community by ~ <a href="https://github.com/abraxas0001" target="_blank" rel="noopener noreferrer">**Abra**</a>**
 
 [⬆ Back to Top](#-cli-tg-account-homies)
 
