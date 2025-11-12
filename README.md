@@ -1,222 +1,442 @@
-# CLI-Tg-Account-Homies
+# 🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
 
-A lightweight, user-friendly Telegram client that works in your terminal (CLI) or your browser (local web UI). Built with Python and Telethon.
 
-> **🌎 WHY THIS EXISTS:**
+
+**Bypass Telegram geo-restrictions using a shared Colombian account**A lightweight, user-friendly Telegram client that works in your terminal (CLI) or your browser (local web UI). Built with Python and Telethon.
+
+
+
+> **Why This Exists:** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number (+57 313 531 6429) lets you **bypass regional restrictions** and access content that's blocked in your region.> **🌎 WHY THIS EXISTS:**
+
 > Many Telegram channels and groups are **geo-restricted** in Asian countries. This shared Colombian phone number account allows you to **bypass regional restrictions** and access content that would otherwise be blocked in your region.
-
-> **⚠️ IMPORTANT SECURITY NOTICE:**
-> - This account is **2FA-protected** and shared for public use
-> - **Contact the administrator** to get pre-configured session files (easiest - no password needed!)
-> - The administrator monitors all activity and can terminate sessions remotely
-> - Username may change frequently (it is dynamic)
-> - Do not attempt to terminate other sessions or change account settings
-
-> **👉 RECOMMENDED FOR EVERYONE:** Get pre-configured session files from admin (see Method 1 below) - login instantly with zero setup!
 
 ---
 
-## 📞 Contact Admin for Access
+> **⚠️ IMPORTANT SECURITY NOTICE:**
+
+## 📞 Contact Admin> - This account is **2FA-protected** and shared for public use
+
+> - **Contact the administrator** to get pre-configured session files (easiest - no password needed!)
+
+<div align="center">> - The administrator monitors all activity and can terminate sessions remotely
+
+> - Username may change frequently (it is dynamic)
+
+<a href="https://t.me/TestingAccountHomies">> - Do not attempt to terminate other sessions or change account settings
+
+  <img src="https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram"/>
+
+</a>> **👉 RECOMMENDED FOR EVERYONE:** Get pre-configured session files from admin (see Method 1 below) - login instantly with zero setup!
+
+
+
+**Account Details:**---
+
+- 📱 Phone: `+57 313 531 6429` (Colombian)
+
+- 👤 User ID: `7387738015`## 📞 Contact Admin for Access
+
+- 🔐 2FA Password: **Request from admin**
 
 <div align="center">
 
+</div>
+
 ### **Need Access? Contact the Owner:**
 
+---
+
 <a href="https://t.me/TestingAccountHomies" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram" alt="Contact on Telegram"/>
+
+## 🚀 Two Ways to Access  <img src="https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram" alt="Contact on Telegram"/>
+
 </a>
+
+### Method 1: Official Telegram App (Easiest - 2 minutes)
 
 **👉 Click above to message on Telegram**
 
-**Account Details:**
-- 📱 Phone Number: `+57 313 531 6429` (Colombian number)
-- 🔐 2FA Password (admin provides when you request access)
-- 📨 Verification codes (admin receives and forwards to you)
-- 👤 User ID: `7387738015`
+**Perfect for: Everyone**
 
-</div>
+**Account Details:**
+
+1. Download **Telegram** app (mobile/desktop) from https://telegram.org- 📱 Phone Number: `+57 313 531 6429` (Colombian number)
+
+2. Open Telegram → **Login with phone number**- 🔐 2FA Password (admin provides when you request access)
+
+3. Enter: `+573135316429` (the shared Colombian number)- 📨 Verification codes (admin receives and forwards to you)
+
+4. Telegram sends **verification code** → Message [@TestingAccountHomies](https://t.me/TestingAccountHomies) to get it- 👤 User ID: `7387738015`
+
+5. Enter the verification code
+
+6. Enter **2FA password** (admin provides)</div>
+
+7. ✅ **Done!** You're logged in and can access geo-restricted content
 
 ---
+
+**That's it! Use Telegram normally now.**
 
 ## Features
 
-- **Bypass geo-restrictions** - Access channels/groups blocked in Asian regions
-- **Colombian phone number** - Unrestricted access to most Telegram content
-- CLI interface for fast, keyboard-driven use
-- Web interface with a clean, Telegram-like layout
-- Real-time message view and send
-- Uses official Telegram API via Telethon
-- Local-only hosting for privacy
-- **2FA password required** - contact admin for access
-
-## Use Cases
-
-- ✅ Access geo-restricted channels and groups
-- ✅ View content blocked in your country
-- ✅ Join international communities without VPN
-- ✅ Monitor messages from restricted sources
-- ✅ Bypass regional Telegram limitations
-
 ---
 
-## 🚀 How to Get Access - Two Methods
+- **Bypass geo-restrictions** - Access channels/groups blocked in Asian regions
 
-Choose the method that suits your technical level:
+### Method 2: CLI Access (Advanced - 10 minutes)- **Colombian phone number** - Unrestricted access to most Telegram content
 
-### 🌟 **Method 1: Pre-Configured Session (Easiest - Recommended)**
+- CLI interface for fast, keyboard-driven use
+
+**Perfect for: Developers who want terminal/programmatic access**- Web interface with a clean, Telegram-like layout
+
+- Real-time message view and send
+
+Use Python scripts to access the account via CLI or web interface.- Uses official Telegram API via Telethon
+
+- Local-only hosting for privacy
+
+#### What You'll Get:- **2FA password required** - contact admin for access
+
+- 💻 Command-line interface for Telegram
+
+- 🌐 Local web UI (browser-based)## Use Cases
+
+- 🔐 Session files (login once, use forever)
+
+- 🤖 Programmatic access to messages- ✅ Access geo-restricted channels and groups
+
+- ✅ View content blocked in your country
+
+#### Prerequisites:- ✅ Join international communities without VPN
+
+- Python 3.8+- ✅ Monitor messages from restricted sources
+
+- Git- ✅ Bypass regional Telegram limitations
+
+
+
+#### Setup Steps:---
+
+
+
+**1. Clone this repo:**## 🚀 How to Get Access - Two Methods
+
+```bash
+
+git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.gitChoose the method that suits your technical level:
+
+cd CLI-Tg-Account-Homies
+
+```### 🌟 **Method 1: Pre-Configured Session (Easiest - Recommended)**
+
 **⏱️ Takes: 2 minutes** | **Difficulty: Zero** | **Best for: Everyone**
 
-Get a pre-authenticated session file from the admin - no login required!
+**2. Install dependencies:**
 
-**How it works:**
+```bashGet a pre-authenticated session file from the admin - no login required!
+
+pip install -r requirements.txt
+
+```**How it works:**
+
 1. **Message [@TestingAccountHomies](https://t.me/TestingAccountHomies)** on Telegram
-2. Request: "I need the pre-configured session files"
-3. Admin will send you:
-   - � **`.session` file** (pre-authenticated)
-   - ⚙️ **`config.py`** (with API credentials already set)
+
+**3. Get Telegram API credentials:**2. Request: "I need the pre-configured session files"
+
+- Go to https://my.telegram.org3. Admin will send you:
+
+- Login with **your personal phone** (not the shared one)   - � **`.session` file** (pre-authenticated)
+
+- Create app → Get `api_id` and `api_hash`   - ⚙️ **`config.py`** (with API credentials already set)
+
    - � **`requirements.txt`** (dependencies list)
-4. Download files, install dependencies, and run:
+
+**4. Configure:**4. Download files, install dependencies, and run:
+
    ```bash
-   pip install -r requirements.txt
-   python telegram_desktop_cli.py
-   ```
-5. ✅ **You're logged in instantly!** No password, no verification code needed!
 
-**Why this is easiest:**
-- 🚀 Session file contains valid authentication tokens
-- 🔐 2FA password NOT required (session is already authenticated)
-- 📵 No verification codes needed
-- ⚡ Start using immediately after download
+Copy example config:   pip install -r requirements.txt
 
-**Important notes:**
+```bash   python telegram_desktop_cli.py
+
+copy config.example.py config.py   ```
+
+```5. ✅ **You're logged in instantly!** No password, no verification code needed!
+
+
+
+Edit `config.py`:**Why this is easiest:**
+
+```python- 🚀 Session file contains valid authentication tokens
+
+api_id = YOUR_API_ID          # From step 3- 🔐 2FA password NOT required (session is already authenticated)
+
+api_hash = "YOUR_API_HASH"    # From step 3- 📵 No verification codes needed
+
+session_name = "my_session"   # Any name- ⚡ Start using immediately after download
+
+phone_number = "+573135316429"  # The shared Colombian number
+
+```**Important notes:**
+
 - Session remains valid even after admin changes 2FA password
-- To revoke your access, admin must terminate your session via Telegram Settings
-- Keep the `.session` file private - anyone with it can access the account
 
----
+**5. Login:**- To revoke your access, admin must terminate your session via Telegram Settings
 
-### 💻 **Method 2: Manual Login (Advanced - For Developers)**
-**⏱️ Takes: 15-20 minutes** | **Difficulty: Intermediate** | **Best for: Users who want to create their own session**
+```bash- Keep the `.session` file private - anyone with it can access the account
 
-Set up from scratch and create your own session file by logging in with the shared account.
+python login.py
 
-**What you need from admin:**
-- 📱 Phone Number: `+57 313 531 6429`
-- 🔐 2FA Password (current password - changes regularly)
-- 📨 Verification codes (admin forwards each time you login)
+```---
 
-**What you provide yourself:**
+
+
+This will:### 💻 **Method 2: Manual Login (Advanced - For Developers)**
+
+- Ask for verification code → **Message [@TestingAccountHomies](https://t.me/TestingAccountHomies)** to get it**⏱️ Takes: 15-20 minutes** | **Difficulty: Intermediate** | **Best for: Users who want to create their own session**
+
+- Ask for 2FA password → Enter password admin gave you
+
+- Create `.session` file (reusable - you won't need codes/password again)Set up from scratch and create your own session file by logging in with the shared account.
+
+
+
+**6. Use CLI:****What you need from admin:**
+
+```bash- 📱 Phone Number: `+57 313 531 6429`
+
+python telegram_desktop_cli.py- 🔐 2FA Password (current password - changes regularly)
+
+```- 📨 Verification codes (admin forwards each time you login)
+
+
+
+Enter 2FA password when prompted → Access granted!**What you provide yourself:**
+
 - Your own Telegram API credentials (from my.telegram.org)
-- Python 3.8+ environment
-- Basic command-line knowledge
 
-**Use this method if you want to:**
-- Create your own session from scratch
-- Learn the technical setup process
+**Available commands:**- Python 3.8+ environment
+
+- `/list` - Show chats- Basic command-line knowledge
+
+- `/read <number>` - Read messages
+
+- `/send <number> <message>` - Send message**Use this method if you want to:**
+
+- `/me` - Account info- Create your own session from scratch
+
+- `/quit` - Exit- Learn the technical setup process
+
 - Have full control over configuration
-- Understand how Telegram authentication works
 
-**When you need this:**
-- Admin didn't provide pre-configured files
+**7. Or use Web UI:**- Understand how Telegram authentication works
+
+```bash
+
+python telegram_web_app.py**When you need this:**
+
+```- Admin didn't provide pre-configured files
+
 - Your session expired or was deleted
-- You want to set up on multiple devices
+
+Enter 2FA password → Open http://localhost:5000- You want to set up on multiple devices
+
 - You prefer doing technical setup yourself
 
 ---
 
+---
+
+## 📋 What You Can Do
+
 ## 📖 Complete Setup Guide (Method 2 - Manual Login)
 
-> ⚠️ **Most users should use Method 1 (pre-configured files)!** Only use this if you want to create your own session from scratch or if the session expires.
+✅ Access geo-blocked channels/groups  
 
-> 💡 **When do you need this?** Only if:
-> - Admin didn't provide session files
+✅ Read and send messages  > ⚠️ **Most users should use Method 1 (pre-configured files)!** Only use this if you want to create your own session from scratch or if the session expires.
+
+✅ View media and files  
+
+✅ Monitor chats  > 💡 **When do you need this?** Only if:
+
+✅ Use CLI or Web interface  > - Admin didn't provide session files
+
 > - Your `.session` file was deleted or expired
-> - You want to understand the technical login process
 
-Follow these steps carefully to manually create a new session:
+---> - You want to understand the technical login process
 
-### **Step 1: Contact Admin for Credentials**
 
-Before starting the technical setup:
 
-1. Open Telegram and message: **[@TestingAccountHomies](https://t.me/TestingAccountHomies)**
+## ⚠️ Important RulesFollow these steps carefully to manually create a new session:
+
+
+
+### ✅ Allowed:### **Step 1: Contact Admin for Credentials**
+
+- Read/send messages
+
+- Access any channels/groupsBefore starting the technical setup:
+
+- Use CLI/Web interfaces
+
+- Share with friends (they must contact admin too)1. Open Telegram and message: **[@TestingAccountHomies](https://t.me/TestingAccountHomies)**
+
 2. Send: "Hi, I need access to the shared Telegram account for CLI setup"
-3. Admin will provide you with:
-   - 📱 **Phone Number** (Colombian number: `+57 313 531 6429`)
-   - 🔐 **2FA Password** (changes regularly for security)
-   - 👤 **Account Info** (User ID: `7387738015`, name varies)
-4. **Save these credentials** - you'll need them during login
+
+### ❌ NOT Allowed:3. Admin will provide you with:
+
+- Change account settings   - 📱 **Phone Number** (Colombian number: `+57 313 531 6429`)
+
+- Terminate other sessions   - 🔐 **2FA Password** (changes regularly for security)
+
+- Disable 2FA   - 👤 **Account Info** (User ID: `7387738015`, name varies)
+
+- Change phone number4. **Save these credentials** - you'll need them during login
+
+- Abuse the account
 
 > ⚠️ **IMPORTANT:** You MUST use the admin's phone number (+57 313 531 6429) to login, NOT your own number. This is a shared account specifically for bypassing geo-restrictions.
 
+**⚠️ Admin monitors activity. Breaking rules = instant access revocation.**
+
 ### **Step 2: Clone This Repository**
 
+---
+
 ```bash
-git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git
+
+## 🔐 Security Modelgit clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git
+
 cd CLI-Tg-Account-Homies
-```
 
-### **Step 3: Install Python Dependencies**
+- Account is **2FA-protected**```
 
-```bash
+- Admin provides temporary passwords
+
+- Admin can revoke access anytime### **Step 3: Install Python Dependencies**
+
+- Session files are valid until admin changes password
+
+- Your activity is logged (for security)```bash
+
 pip install -r requirements.txt
-```
 
-This installs:
+---```
+
+
+
+## 📂 Repository FilesThis installs:
+
 - `telethon` - Telegram client library
-- `flask` - Web interface
-- `python-dotenv` - Environment variable loader
-- `cryptg` - Faster encryption
 
-### **Step 4: Get Your Own Telegram API Credentials**
+```- `flask` - Web interface
 
-You need your own API credentials (these are different from the account login):
+├── login.py                  # Initial login (creates .session)- `python-dotenv` - Environment variable loader
 
-> 📌 **NOTE:** API credentials are YOUR personal developer keys to access Telegram's API. The phone number (+57 313 531 6429) is the SHARED ACCOUNT you'll login to.
+├── telegram_desktop_cli.py   # CLI interface- `cryptg` - Faster encryption
 
-1. Go to: https://my.telegram.org
+├── telegram_web_app.py       # Web interface  
+
+├── config_loader.py          # Config loader### **Step 4: Get Your Own Telegram API Credentials**
+
+├── config.example.py         # Config template
+
+├── requirements.txt          # DependenciesYou need your own API credentials (these are different from the account login):
+
+└── README.md                 # This file
+
+```> 📌 **NOTE:** API credentials are YOUR personal developer keys to access Telegram's API. The phone number (+57 313 531 6429) is the SHARED ACCOUNT you'll login to.
+
+
+
+---1. Go to: https://my.telegram.org
+
 2. Login with **your personal** Telegram phone number (your own number, not the shared one)
-3. Click "API Development Tools"
+
+## ❓ Troubleshooting3. Click "API Development Tools"
+
 4. Fill in:
-   - App title: `My Telegram CLI`
-   - Short name: `tg_cli`
-   - Platform: `Desktop`
+
+**"I don't have the verification code"**   - App title: `My Telegram CLI`
+
+- Codes are sent to admin's phone   - Short name: `tg_cli`
+
+- Message [@TestingAccountHomies](https://t.me/TestingAccountHomies) to get it   - Platform: `Desktop`
+
 5. Click "Create Application"
-6. **Copy your `api_id` and `api_hash`** (you'll need these)
 
-> ℹ️ These API keys are like your developer license - you use them to connect to Telegram, but you'll login to the admin's shared account.
+**"2FA password incorrect"**6. **Copy your `api_id` and `api_hash`** (you'll need these)
 
-### **Step 5: Configure the Application**
+- Password changes regularly for security
 
-Choose one method:
+- Request current password from admin> ℹ️ These API keys are like your developer license - you use them to connect to Telegram, but you'll login to the admin's shared account.
 
-**Method A: Using config.py (Recommended for beginners)**
 
-1. Copy the example config:
-   ```bash
+
+**"My session stopped working"**### **Step 5: Configure the Application**
+
+- Admin may have changed password
+
+- Run `python login.py` again with new passwordChoose one method:
+
+
+
+**"Can I use my own phone number?"****Method A: Using config.py (Recommended for beginners)**
+
+- ❌ NO! You must use `+573135316429`
+
+- That's the Colombian number that bypasses geo-restrictions1. Copy the example config:
+
+- Your own number won't have the same access   ```bash
+
    copy config.example.py config.py
+
+---   ```
+
+
+
+## 📜 License2. Edit `config.py` with your API credentials:
+
+   ```python
+
+MIT License - See [LICENSE](LICENSE)   api_id = 12345678  # Your api_id from Step 4
+
+   api_hash = "abc123def456"  # Your api_hash from Step 4
+
+---   session_name = "my_session"  # Any name you want
+
    ```
 
-2. Edit `config.py` with your API credentials:
-   ```python
-   api_id = 12345678  # Your api_id from Step 4
-   api_hash = "abc123def456"  # Your api_hash from Step 4
-   session_name = "my_session"  # Any name you want
-   ```
+## 👤 Credits
 
 **Method B: Using .env file**
 
+Created by [**Abra**](https://github.com/abraxas0001)
+
 1. Copy the example:
-   ```bash
-   copy .env.example .env
+
+**Support:**   ```bash
+
+- GitHub: [@abraxas0001](https://github.com/abraxas0001)   copy .env.example .env
+
+- Telegram: [@TestingAccountHomies](https://t.me/TestingAccountHomies)   ```
+
+
+
+---2. Edit `.env`:
+
    ```
 
-2. Edit `.env`:
-   ```
-   TELEGRAM_API_ID=12345678
+## ⚠️ Disclaimer   TELEGRAM_API_ID=12345678
+
    TELEGRAM_API_HASH=abc123def456
-   TELEGRAM_SESSION_NAME=my_session
+
+Unofficial Telegram client for educational and accessibility purposes. Users must comply with Telegram's Terms of Service and local laws. Use at your own risk.   TELEGRAM_SESSION_NAME=my_session
+
    ```
+
+**🌍 Access content freely. No geo-restrictions. Star the repo if this helped you! ⭐**
 
 ### **Step 6: Login to the Shared Account (CLI)**
 
