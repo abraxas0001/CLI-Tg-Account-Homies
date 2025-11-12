@@ -199,7 +199,31 @@ pip install -r requirements.txt
 
 ## ⚙️ Configuration
 
-### Step 1: Get Telegram API Credentials
+### Step 1: Get Access to Shared Account
+
+**📱 Shared Test Account Available!**
+
+This project includes a shared Colombian Telegram account for testing purposes.
+
+**Phone Number:** `+573135316429`
+
+**To get access:**
+1. 📞 Contact the owner on Telegram: [@TestingAccountHomies](https://t.me/TestingAccountHomies)
+2. 🔑 Request the **2FA password** for the shared account
+3. 📱 Install Telegram app on your device
+4. 🔐 Login using the phone number `+573135316429`
+5. 💬 Get the verification code (owner will provide)
+6. 🔒 Enter the 2FA password (owner will provide)
+
+**⚠️ Important:**
+- This is a **shared testing account** - multiple users may have access
+- You **MUST** get the 2FA password from the owner to login
+- The owner can monitor activity and revoke access anytime
+- Use responsibly and follow guidelines
+
+---
+
+### Step 2: Get Telegram API Credentials
 
 1. Visit [my.telegram.org](https://my.telegram.org)
 2. Log in with your phone number
@@ -207,7 +231,7 @@ pip install -r requirements.txt
 4. Create a new application
 5. Save your `api_id` and `api_hash`
 
-### Step 2: Create Configuration File
+### Step 3: Create Configuration File
 
 ```bash
 # Copy the example config
@@ -215,7 +239,7 @@ copy config.example.py config.py    # Windows
 cp config.example.py config.py      # Linux/macOS
 ```
 
-### Step 3: Edit Configuration
+### Step 4: Edit Configuration
 
 Open `config.py` and add your credentials:
 
@@ -225,9 +249,9 @@ api_id = 12345678  # Replace with your API ID
 api_hash = "your_api_hash_here"  # Replace with your API hash
 session_name = "my_telegram_session"  # Choose any name
 
-# Optional
-phone_number = ""  # Your phone with country code (no + or spaces)
-password_2fa = ""  # Your 2FA password (if enabled)
+# Optional - For shared test account
+phone_number = "+573135316429"  # Colombian shared account (get 2FA from owner)
+password_2fa = ""  # Enter 2FA password provided by owner
 ```
 
 **⚠️ Security Note:** 
@@ -247,11 +271,15 @@ Run the login script to authenticate:
 python login.py
 ```
 
+**For Shared Test Account:**
+- Use phone number: `+573135316429`
+- Get 2FA password from: [@TestingAccountHomies](https://t.me/TestingAccountHomies)
+
 **What happens:**
-1. Enter your phone number (with country code, e.g., `+1234567890`)
+1. Enter your phone number (with country code, e.g., `+573135316429`)
 2. Receive verification code via Telegram
 3. Enter the code
-4. Enter 2FA password (if enabled)
+4. Enter 2FA password (get from owner if using shared account)
 5. Session saved to `{session_name}.session`
 
 **Example Output:**
@@ -266,9 +294,9 @@ python login.py
 [1] Connecting to Telegram...
 [2] Starting login process...
 
-Enter phone number (with country code, e.g., +1234567890): +1234567890
+Enter phone number (with country code, e.g., +573135316429): +573135316429
 
-📱 Verification code sent to +1234567890
+📱 Verification code sent to +573135316429
 Enter the verification code: 12345
 
 🔐 Two-Factor Authentication is enabled.
