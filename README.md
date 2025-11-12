@@ -2,6 +2,9 @@
 
 A lightweight, user-friendly Telegram client that works in your terminal (CLI) or your browser (local web UI). Built with Python and Telethon.
 
+> **🌎 WHY THIS EXISTS:**
+> Many Telegram channels and groups are **geo-restricted** in Asian countries. This shared Colombian phone number account allows you to **bypass regional restrictions** and access content that would otherwise be blocked in your region.
+
 > **⚠️ IMPORTANT SECURITY NOTICE:**
 > - This account is **2FA-protected** and shared for public use
 > - **Contact the administrator** to get the 2FA password before login
@@ -11,12 +14,22 @@ A lightweight, user-friendly Telegram client that works in your terminal (CLI) o
 
 ## Features
 
+- **Bypass geo-restrictions** - Access channels/groups blocked in Asian regions
+- **Colombian phone number** - Unrestricted access to most Telegram content
 - CLI interface for fast, keyboard-driven use
 - Web interface with a clean, Telegram-like layout
 - Real-time message view and send
 - Uses official Telegram API via Telethon
 - Local-only hosting for privacy
 - **2FA password required** - contact admin for access
+
+## Use Cases
+
+- ✅ Access geo-restricted channels and groups
+- ✅ View content blocked in your country
+- ✅ Join international communities without VPN
+- ✅ Monitor messages from restricted sources
+- ✅ Bypass regional Telegram limitations
 
 ## 🎯 Use Cases
 
@@ -164,3 +177,25 @@ To change the 2FA password and lock out current users:
 To monitor active sessions:
 1. Settings → Privacy & Security → Active Sessions
 2. View all logged-in devices and terminate suspicious ones
+
+---
+
+## 📜 License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## 👤 Credits
+
+Created and maintained by <a href="https://github.com/abraxas0001" target="_blank" rel="noopener noreferrer">**Abra**</a>
+
+This project was built to help users bypass geo-restrictions and access Telegram content that may be blocked in their region. The shared Colombian number provides unrestricted access to channels and groups.
+
+**Support & Contact:**
+- GitHub: [@abraxas0001](https://github.com/abraxas0001)
+- For 2FA password access, contact the repository owner
+
+---
+
+## ⚠️ Disclaimer
+
+This is an unofficial Telegram client for educational and accessibility purposes. Users are responsible for complying with Telegram's Terms of Service and local laws. Use at your own risk.
