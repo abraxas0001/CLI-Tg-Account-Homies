@@ -1,6 +1,25 @@
 # 🚀 Quick Setup Guide
 
-## Step 1: Get Telegram API Credentials
+## ⚠️ BEFORE YOU START
+
+**This account is 2FA-protected for shared public use.**
+
+1. **Contact the administrator** to get the 2FA password
+2. **Do not attempt** to change account settings or terminate sessions
+3. **Administrator monitors** all activity
+4. **Access can be revoked** at any time
+
+---
+
+## Step 1: Get 2FA Password from Administrator
+
+**You cannot proceed without this!**
+
+Contact the account owner and request:
+- 2FA password (required for login)
+- Phone number (needed for first login)
+
+## Step 2: Get Telegram API Credentials
 
 1. Visit [my.telegram.org](https://my.telegram.org)
 2. Login with your Telegram phone number
@@ -12,19 +31,28 @@
 5. Click "Create Application"
 6. Save your `api_id` and `api_hash`
 
-## Step 2: Install Dependencies
+## Step 3: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Step 3: Configure
+## Step 3: Configure (without exposing credentials)
 
-Edit each Python file and replace:
+Choose one:
+
+**Option A:** Create `config.py` (ignored by git) from `config.example.py` and fill in:
 ```python
-api_id = 12345678  # Replace with your API ID
-api_hash = "your_api_hash_here"  # Replace with your API Hash
-session = "my_telegram"  # Choose a session name
+api_id = 123456
+api_hash = "your_api_hash_here"
+session_name = "my_session"
+```
+
+**Option B:** Use environment variables (recommended). Create `.env` from `.env.example`:
+```
+TELEGRAM_API_ID=123456
+TELEGRAM_API_HASH=your_hash_here
+TELEGRAM_SESSION_NAME=my_session
 ```
 
 ## Step 4: First Login
@@ -33,10 +61,12 @@ session = "my_telegram"  # Choose a session name
 python login.py
 ```
 
-Enter:
-- Your phone number (with country code, e.g., +1234567890)
-- Verification code from Telegram
-- 2FA password (if enabled)
+**Follow the prompts:**
+1. Enter phone number (provided by admin)
+2. Enter verification code from Telegram
+3. **Enter 2FA password** (the one admin gave you)
+
+The script will securely prompt for the 2FA password without storing it.
 
 ## Step 5: Start Using!
 
@@ -49,6 +79,24 @@ python telegram_desktop_cli.py
 ```bash
 python telegram_web_app.py
 ```
+Then open: http://localhost:5000
+
+---
+
+## ⚠️ Usage Rules
+
+**Allowed:**
+- ✅ Read and send messages
+- ✅ Use CLI or Web interface
+- ✅ Monitor incoming messages
+
+**Forbidden:**
+- ❌ Change account settings
+- ❌ Terminate other sessions
+- ❌ Attempt to change password
+- ❌ Export account data
+
+**Violation = immediate access revocation**
 Then open: http://localhost:5000
 
 ## 🔧 Troubleshooting

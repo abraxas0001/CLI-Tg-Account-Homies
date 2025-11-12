@@ -1,15 +1,22 @@
 """
 Session Verification Tool
 Check if your Telegram session is valid and working
+
+For 2FA-protected accounts: You'll need the 2FA password to login.
+Contact the account administrator if you don't have it.
 """
 
 from telethon import TelegramClient
+from telethon.errors import SessionPasswordNeededError
 import asyncio
+import getpass
+from config_loader import get_config
 
-# Configuration - Replace with your values
-api_id = 12345678  # Your API ID
-api_hash = "your_api_hash_here"  # Your API Hash
-session_file = "my_telegram"  # Session file name
+# Load configuration securely
+cfg = get_config()
+api_id = cfg["api_id"]
+api_hash = cfg["api_hash"]
+session_file = cfg["session_name"]
 
 print("=" * 60)
 print("TELEGRAM SESSION VERIFICATION & LOGIN")
@@ -48,33 +55,48 @@ async def main():
             
             print("\n✓ Session is working perfectly!")
             print("\nYou can now use this account with:")
+            print("  • Python CLI (telegram_desktop_cli.py)")
+            print("  • Web interface (telegram_web_app.py)")
             print("  • AyuGram desktop application")
-            print("  • Python scripts (telegram_cli.py)")
-            print("  • Any Telegram client that supports session files")
             
         else:
             print("✗ Session is NOT authorized.")
             print("\n[2] Starting login process...")
+            print("⚠️  This account is 2FA protected.")
+            print("📞 Contact the administrator for the 2FA password.\n")
+            
+            # Get phone number
+            phone = input("Enter phone number (with country code): ").strip()
             
             # Send code request
             await client.send_code_request(phone)
-            print(f"Code sent to {phone}")
+            print(f"\n📱 Code sent to {phone}")
             
-            code = input("Enter the code you received: ")
+            code = input("Enter the verification code: ").strip()
             
             try:
                 # Try to sign in
                 await client.sign_in(phone, code)
-            except Exception as e:
-                if "Two-steps verification" in str(e) or "password" in str(e).lower():
-                    print(f"\n2FA is enabled. Using password: {twoFA}")
-                    await client.sign_in(password=twoFA)
-                else:
-                    raise e
+            except SessionPasswordNeededError:
+                print("\n🔐 2FA is enabled. Password required.")
+                print("⚠️  Contact the administrator if you don't have it.\n")
+                
+                # Prompt for 2FA password (hidden input)
+                password_2fa = getpass.getpass("Enter 2FA password: ")
+                
+                try:
+                    await client.sign_in(password=password_2fa)
+                except Exception as e:
+                    print(f"\n❌ 2FA password incorrect: {e}")
+                    print("Contact the administrator for the correct password.")
+                    return
             
             me = await client.get_me()
             print(f"\n✓ Successfully logged in as: {me.first_name}")
             print(f"Session saved to: {session_file}.session")
+            print("\n⚠️  SECURITY NOTICE:")
+            print("  - Administrator can monitor your activity")
+            print("  - Administrator may change password anytime")
         
     except Exception as e:
         print(f"\n✗ Error: {e}")
