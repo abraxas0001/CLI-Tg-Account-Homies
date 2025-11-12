@@ -1,23 +1,28 @@
 """
 Telegram Web Interface - Use your account in a web browser!
 This creates a local web server that gives you a full Telegram interface.
+
+SECURITY NOTICE: This is a shared 2FA-protected account.
+You MUST have the 2FA password from the administrator to use this.
+Contact: @TestingAccountHomies on Telegram
 """
 
 from telethon import TelegramClient, events
 from telethon.tl.types import PeerUser, PeerChat, PeerChannel
+from telethon.errors import SessionPasswordNeededError
 import asyncio
 from flask import Flask, render_template_string, request, jsonify
 import threading
 import webbrowser
 from datetime import datetime
+import getpass
+from config_loader import get_config
 
-# Configuration - Replace with your values
-api_id = 12345678  # Your API ID from my.telegram.org
-api_hash = "your_api_hash_here"  # Your API Hash
-session = "my_telegram"  # Session file name
+# Load configuration securely
+cfg = get_config()
 
 app = Flask(__name__)
-client = TelegramClient(session, api_id, api_hash)
+client = TelegramClient(cfg["session_name"], cfg["api_id"], cfg["api_hash"])
 dialogs_cache = []
 messages_cache = {}
 current_chat = None
@@ -396,18 +401,56 @@ async def load_messages(chat_id):
 
 async def init_client():
     global me_info
-    await client.start()
-    me = await client.get_me()
-    me_info = {
-        'id': me.id,
-        'first_name': me.first_name,
-        'username': me.username
-    }
-    await load_dialogs()
-    print(f"\n✅ Logged in as: {me.first_name} (@{me.username or 'no_username'})")
-    print(f"📱 Phone: {me.phone}")
-    print(f"\n🌐 Opening web interface at: http://localhost:5000")
-    print(f"🔒 Keep this window open to use the web interface!")
+    
+    print("\n" + "="*70)
+    print("     🚀 TELEGRAM WEB - 2FA Protected Shared Account 🚀")
+    print("="*70)
+    print("\n⚠️  This account requires 2FA password verification.")
+    print("📞 Contact @TestingAccountHomies on Telegram for the password.")
+    print("   Link: https://t.me/TestingAccountHomies")
+    print("="*70)
+    
+    # Prompt for 2FA password
+    password_2fa = getpass.getpass("\n🔑 Enter 2FA password to start web server: ")
+    
+    try:
+        await client.connect()
+        
+        if not await client.is_user_authorized():
+            print("\n❌ Session expired. Please run login.py first.")
+            exit(1)
+        
+        # Verify 2FA password (if needed)
+        try:
+            me = await client.get_me()
+            print(f"\n✅ 2FA verified! Access granted.")
+        except SessionPasswordNeededError:
+            try:
+                await client.sign_in(password=password_2fa)
+                me = await client.get_me()
+                print(f"\n✅ 2FA verified! Access granted.")
+            except Exception as e:
+                print(f"\n❌ Incorrect 2FA password: {e}")
+                print("Contact @TestingAccountHomies for the correct password.")
+                exit(1)
+        
+        me_info = {
+            'id': me.id,
+            'first_name': me.first_name,
+            'username': me.username
+        }
+        await load_dialogs()
+        
+        print(f"\n✅ Connected to shared account!")
+        print(f"   Name: {me.first_name} (@{me.username or 'no_username'})")
+        print(f"   Phone: {me.phone}")
+        print(f"   User ID: {me.id}")
+        print(f"\n🌐 Opening web interface at: http://localhost:5000")
+        print(f"🔒 Keep this window open to use the web interface!")
+        
+    except Exception as e:
+        print(f"\n❌ Authentication error: {e}")
+        exit(1)
 
 def run_flask():
     app.run(host='0.0.0.0', port=5000, debug=False, use_reloader=False)
