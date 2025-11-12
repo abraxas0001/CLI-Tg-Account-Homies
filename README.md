@@ -1,4 +1,4 @@
-# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
+# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
 
 
 
@@ -6,332 +6,822 @@
 
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram)](https://t.me/TestingAccountHomies)**Bypass Telegram geo-restrictions using a shared Colombian account**
+**Bypass Telegram geo-restrictions with a shared Colombian account**<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+
+
+[![Telegram](https://img.shields.io/badge/Contact-@TestingAccountHomies-2CA5E0?style=flat-square&logo=telegram)](https://t.me/TestingAccountHomies)
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python)](https://python.org)
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)[![Telegram](https://img.shields.io/badge/Telegram-@TestingAccountHomies-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TestingAccountHomies)<div align="center">
+
+
+
+</div>[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
+
+
+---[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+
+
+## Why This Exists[![Stars](https://img.shields.io/github/stars/abraxas0001/CLI-Tg-Account-Homies?style=for-the-badge&color=yellow)](https://github.com/abraxas0001/CLI-Tg-Account-Homies/stargazers)
+
+
+
+Many Telegram channels and groups are geo-blocked in Asian countries. This shared Colombian phone number (`+57 313 531 6429`) bypasses these restrictions.[![Telegram](https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram)](https://t.me/TestingAccountHomies)**Bypass Telegram geo-restrictions using a shared Colombian account**
+
+
+
+**Access:**### 🚀 Bypass Telegram Geo-Restrictions
+
+- Geo-restricted channels & groups
+
+- Blocked content in your region[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+
+- No VPN needed
+
+*Access blocked channels and groups using a shared Colombian account*
+
+---
 
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[![Stars](https://img.shields.io/github/stars/abraxas0001/CLI-Tg-Account-Homies?style=for-the-badge)](https://github.com/abraxas0001/CLI-Tg-Account-Homies/stargazers)
+## Account Info
 
-> **Why?** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number lets you **bypass regional restrictions** and access blocked content.**Bypass Telegram geo-restrictions using a shared Colombian account**
+[**Get Started**](#-quick-start) • [**Features**](#-features) • [**Documentation**](#-method-1-telegram-app-easiest) • [**Contributing**](CONTRIBUTING.md)
 
-**🚀 Bypass Telegram geo-restrictions with a shared Colombian account**
+| | |
 
+|---|---|[![Stars](https://img.shields.io/github/stars/abraxas0001/CLI-Tg-Account-Homies?style=for-the-badge)](https://github.com/abraxas0001/CLI-Tg-Account-Homies/stargazers)
 
+| 📱 Phone | `+57 313 531 6429` |
 
-*Access channels and groups that are blocked in Asian countries*
+| 👤 User ID | `7387738015` |</div>
 
-**Account Info:**
+| 🌍 Country | Colombia |
 
-</div>
+| 💬 Admin | [@TestingAccountHomies](https://t.me/TestingAccountHomies) |> **Why?** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number lets you **bypass regional restrictions** and access blocked content.**Bypass Telegram geo-restrictions using a shared Colombian account**
 
-- 📱 Phone: `+57 313 531 6429`
 
----
 
-- 👤 User ID: `7387738015`> **Why This Exists:** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number (+57 313 531 6429) lets you **bypass regional restrictions** and access content that's blocked in your region.**Bypass Telegram geo-restrictions using a shared Colombian account**A lightweight, user-friendly Telegram client that works in your terminal (CLI) or your browser (local web UI). Built with Python and Telethon.
+------
 
-## 📖 Table of Contents
 
-- 💬 Admin: [@TestingAccountHomies](https://t.me/TestingAccountHomies) (for codes & password)
 
-- [Why This Exists](#-why-this-exists)
+## Getting Started**🚀 Bypass Telegram geo-restrictions with a shared Colombian account**
 
-- [Features](#-features)
 
-- [Quick Start](#-quick-start)
 
-- [Method 1: Telegram App](#method-1-telegram-app-easiest)---
+### Option 1: Telegram App (2 minutes)## 🎯 Why This Exists
 
-- [Method 2: CLI/Web Interface](#method-2-cliweb-interface-advanced)
 
-- [Account Details](#-account-details)---
 
-- [Security & Rules](#-security--rules)
+**For everyone - simplest way**
 
-- [Troubleshooting](#-troubleshooting)## 🚀 Two Methods
 
-- [Contributing](#-contributing)
 
-- [Credits](#-credits)
+1. Download [Telegram](https://telegram.org)Many Telegram channels and groups are **geo-blocked in Asian countries**. This project provides access to a shared Colombian phone number that bypasses these restrictions.
 
+2. Login → Country: Colombia (+57) → Phone: `313 531 6429`
 
+3. Get verification code from [@TestingAccountHomies](https://t.me/TestingAccountHomies)*Access channels and groups that are blocked in Asian countries*
 
----### Method 1: Telegram App (Easy - 2 min)
+4. Get 2FA password from admin
 
+5. Done! ✅**Benefits:**
 
 
-## 🎯 Why This Exists## 📞 Contact Admin> **Why This Exists:** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number (+57 313 531 6429) lets you **bypass regional restrictions** and access content that's blocked in your region.> **🌎 WHY THIS EXISTS:**
 
+---- ✅ Access geo-restricted Telegram channels**Account Info:**
 
 
-Many Telegram channels and groups are **geo-restricted in Asian countries** due to regional blocking. This project provides access to a **shared Colombian phone number account** that bypasses these restrictions, allowing you to:**For: Everyone**
 
+### Option 2: CLI/Web (15 minutes)- ✅ Join blocked groups and communities
 
 
-- ✅ Access geo-blocked Telegram channels
 
-- ✅ Join restricted groups and communities  
+**For developers - command line & web interface**- ✅ No VPN required</div>
 
-- ✅ View content not available in your region1. Download Telegram from https://telegram.org
 
-- ✅ Communicate without VPN limitations
 
-- ✅ Use both mobile app AND command-line interfaces2. Login with: `+573135316429`<div align="center">> Many Telegram channels and groups are **geo-restricted** in Asian countries. This shared Colombian phone number account allows you to **bypass regional restrictions** and access content that would otherwise be blocked in your region.
+#### Install- ✅ Multiple access methods (App, CLI, Web)
 
 
 
-> **🌎 Colombian Number Benefits:** Colombia has unrestricted access to most Telegram content, making it perfect for bypassing Asian geo-blocks.3. Contact admin for verification code & 2FA password
-
-
-
----4. ✅ Done!
-
-
-
-## ✨ Features
-
-
-
-<table>---<a href="https://t.me/TestingAccountHomies">---
-
-<tr>
-
-<td width="50%">
-
-
-
-### 📱 Official Telegram App### Method 2: CLI/Web Scripts (Advanced - 15 min)  <img src="https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram"/>
-
-- Zero setup required
-
-- Works on all devices
-
-- Full Telegram features
-
-- Instant access in 2 minutes**For: Developers who want terminal/programmatic access**</a>> **⚠️ IMPORTANT SECURITY NOTICE:**
-
-
-
-</td>
-
-<td width="50%">
-
-#### Setup:
-
-### 💻 CLI & Web Interface
-
-- Command-line control
-
-- Browser-based UI
-
-- Programmatic access**1. Install:****Account Details:**## 📞 Contact Admin> - This account is **2FA-protected** and shared for public use
-
-- Perfect for automation
-
-```bash
-
-</td>
-
-</tr>git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git- 📱 Phone: `+57 313 531 6429` (Colombian)
-
-</table>
-
-cd CLI-Tg-Account-Homies
-
-### Core Features:
-
-- 🔐 **2FA Protected** - Secure password authenticationpip install -r requirements.txt- 👤 User ID: `7387738015`> - **Contact the administrator** to get pre-configured session files (easiest - no password needed!)
-
-- 🌐 **Multi-Platform** - Mobile, Desktop, CLI, Web
-
-- 🚀 **Fast Access** - Start using immediately```
-
-- 👥 **Shared Access** - Multiple users supported
-
-- 🔄 **Real-time Sync** - All devices stay synced- 🔐 2FA Password: **Request from admin**
-
-- 📊 **Admin Monitored** - Safe and controlled
-
-**2. Get API credentials:**
-
----
-
-- Visit https://my.telegram.org (login with YOUR personal phone)<div align="center">> - The administrator monitors all activity and can terminate sessions remotely
-
-## 🚀 Quick Start
-
-- Create app → Copy `api_id` and `api_hash`
-
-Choose your preferred method:
-
-</div>
-
-| Method | Time | Difficulty | Best For |
-
-|--------|------|------------|----------|**3. Configure:**
-
-| **Telegram App** | 2 min | ⭐ Easy | Everyone |
-
-| **CLI/Web Scripts** | 15 min | ⭐⭐⭐ Advanced | Developers |```bash> - Username may change frequently (it is dynamic)
-
-
-
----copy config.example.py config.py
-
-
-
-## Method 1: Telegram App (Easiest)```---
-
-
-
-### 📱 Perfect for everyone who just wants to access content
-
-
-
-<details>Edit `config.py`:<a href="https://t.me/TestingAccountHomies">> - Do not attempt to terminate other sessions or change account settings
-
-<summary><b>Click to expand step-by-step guide</b></summary>
-
-```python
-
-### Step-by-Step Instructions:
-
-api_id = YOUR_API_ID## 🚀 Two Ways to Access
-
-#### 1️⃣ Download Telegram
-
-- **Mobile:** [Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [iOS](https://apps.apple.com/app/telegram-messenger/id686449807)api_hash = "YOUR_API_HASH"
-
-- **Desktop:** [Windows/Mac/Linux](https://desktop.telegram.org/)
-
-session_name = "my_session"  <img src="https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram"/>
-
-#### 2️⃣ Start Login Process
-
-- Open Telegram```
-
-- Click **"Start Messaging"**
-
-- Select your country: **Colombia (+57)**### Method 1: Official Telegram App (Easiest - 2 minutes)
-
-- Enter phone number: **313 531 6429**
-
-**4. First login:**
-
-#### 3️⃣ Get Verification Code
-
-- Telegram will send a 6-digit code```bash</a>> **👉 RECOMMENDED FOR EVERYONE:** Get pre-configured session files from admin (see Method 1 below) - login instantly with zero setup!
-
-- Contact admin: [@TestingAccountHomies](https://t.me/TestingAccountHomies)
-
-- Say: *"I need the verification code for login"*python login.py
-
-- Admin sends you the code within minutes
-
-```**Perfect for: Everyone who just wants to access geo-restricted content**
-
-#### 4️⃣ Enter Code
-
-- Type the code in Telegram- Enter phone: `+573135316429`
-
-- Press **Continue**
-
-- Get verification code & 2FA from admin
-
-#### 5️⃣ Get 2FA Password
-
-- Telegram asks: *"Two-Step Verification"*- Session file created ✅
-
-- Message admin: *"I need the 2FA password"*
-
-- Enter the password admin provides1. Download **Telegram** app (mobile/desktop) from https://telegram.org
-
-
-
-#### 6️⃣ ✅ Done!**5. Use CLI:**
-
-You're now logged in! Use Telegram normally to access any geo-restricted content.
-
-```bash2. Open Telegram → **Login with phone number****Account Details:**---
-
-### 🎉 What You Can Do Now:
-
-- Join any channel or grouppython telegram_desktop_cli.py
-
-- Send and receive messages
-
-- View media and files```3. Enter: `+573135316429` (the shared Colombian number)
-
-- Access content blocked in your region
-
-- Use all standard Telegram features- Enter 2FA password (required every startup)
-
-
-
-</details>- Commands: `/list`, `/read`, `/send`, `/quit`4. Telegram sends **verification code** to that number- 📱 Phone: `+57 313 531 6429` (Colombian)
-
-
-
----
-
-
-
-## Method 2: CLI/Web Interface (Advanced)**6. Or Web UI:**5. Message [@TestingAccountHomies](https://t.me/TestingAccountHomies) and say: *"I need the verification code"*
-
-
-
-### 💻 For developers who want programmatic access```bash
-
-
-
-<details>python telegram_web_app.py6. Admin sends you the code → Enter it in Telegram- 👤 User ID: `7387738015`## 📞 Contact Admin for Access
-
-<summary><b>Click to expand complete setup guide</b></summary>
-
-```
-
-### Prerequisites:
-
-- Python 3.8 or higher- Enter 2FA password7. Telegram asks for **2FA password**
-
-- Git installed
-
-- Terminal/Command prompt knowledge- Open: http://localhost:5000
-
-- Your own Telegram API credentials (free from my.telegram.org)
-
-8. Message admin: *"I need the 2FA password"*- 🔐 2FA Password: **Request from admin**
-
----
-
----
-
-### 🔧 Setup Instructions
-
-9. Admin sends password → Enter it
-
-#### Step 1: Clone Repository
-
-```bash## 🔐 Security
+```bash- 📱 Phone: `+57 313 531 6429`
 
 git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git
 
-cd CLI-Tg-Account-Homies10. ✅ **Done!** Use Telegram normally to access geo-restricted channels<div align="center">
-
-```
-
-**2FA Required:** CLI/Web ask for password on every startup (admin maintains control)
-
-#### Step 2: Install Dependencies
-
-```bash
+cd CLI-Tg-Account-Homies---
 
 pip install -r requirements.txt
 
-```**Allowed:**
+copy config.example.py config.py---
 
+```
+
+## ✨ Features
+
+#### Configure
+
+- 👤 User ID: `7387738015`> **Why This Exists:** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number (+57 313 531 6429) lets you **bypass regional restrictions** and access content that's blocked in your region.**Bypass Telegram geo-restrictions using a shared Colombian account**A lightweight, user-friendly Telegram client that works in your terminal (CLI) or your browser (local web UI). Built with Python and Telethon.
+
+Edit `config.py`:
+
+```python| Feature | Description |
+
+api_id = YOUR_API_ID          # Get from my.telegram.org
+
+api_hash = "YOUR_API_HASH"    # Using YOUR personal phone|---------|-------------|## 📖 Table of Contents
+
+session_name = "my_session"
+
+```| 📱 **Multi-Platform** | Official Telegram app, CLI, or Web interface |
+
+
+
+#### Login| 🔐 **Secure** | 2FA protected with admin control |- 💬 Admin: [@TestingAccountHomies](https://t.me/TestingAccountHomies) (for codes & password)
+
+
+
+```bash| 🌐 **Colombian Number** | Unrestricted access to most content |
+
+python login.py
+
+# Enter: +573135316429| ⚡ **Fast Setup** | Start using in 2-15 minutes |- [Why This Exists](#-why-this-exists)
+
+# Get verification code & 2FA from admin
+
+```| 🔄 **Real-time Sync** | All devices stay synchronized |
+
+
+
+#### Use- [Features](#-features)
+
+
+
+**CLI:**---
+
+```bash
+
+python telegram_desktop_cli.py- [Quick Start](#-quick-start)
+
+# Commands: /list, /read, /send, /me, /quit
+
+```## 🚀 Quick Start
+
+
+
+**Web:**- [Method 1: Telegram App](#method-1-telegram-app-easiest)---
+
+```bash
+
+python telegram_web_app.pyChoose your preferred method:
+
+# Open: http://localhost:5000
+
+```- [Method 2: CLI/Web Interface](#method-2-cliweb-interface-advanced)
+
+
+
+> **Note:** CLI/Web require 2FA password on every startup (security feature)| Method | Time | Difficulty | Best For |
+
+
+
+---|--------|------|------------|----------|- [Account Details](#-account-details)---
+
+
+
+## Rules| **[Telegram App](#method-1-telegram-app-easiest)** | 2 min | ⭐ Easy | Everyone |
+
+
+
+### ✅ Allowed| **[CLI/Web Scripts](#method-2-cliweb-interface-advanced)** | 15 min | ⭐⭐⭐ Advanced | Developers |- [Security & Rules](#-security--rules)
+
+- Access any channels/groups
+
+- Read & send messages
+
+- Use any interface
+
+---- [Troubleshooting](#-troubleshooting)## 🚀 Two Methods
+
+### ❌ Not Allowed
+
+- Change account settings
+
+- Terminate other sessions
+
+- Disable 2FA## 📞 Account Information- [Contributing](#-contributing)
+
+
+
+**Breaking rules = access revoked**
+
+
+
+---| Detail | Value |- [Credits](#-credits)
+
+
+
+## FAQ|--------|-------|
+
+
+
+**Q: Where do I get verification code/2FA password?**  | 📱 Phone | `+57 313 531 6429` |
+
+A: Contact [@TestingAccountHomies](https://t.me/TestingAccountHomies)
+
+| 🌍 Country | Colombia 🇨🇴 |
+
+**Q: Why does CLI ask for password every time?**  
+
+A: Security - admin maintains control| 👤 User ID | `7387738015` |---### Method 1: Telegram App (Easy - 2 min)
+
+
+
+**Q: Can I use my own phone number?**  | 🔐 Security | 2FA Enabled |
+
+A: No - must use `+573135316429` (Colombian number bypasses restrictions)
+
+| 💬 Admin | [@TestingAccountHomies](https://t.me/TestingAccountHomies) |
+
+**Q: Do I need CLI?**  
+
+A: No - Option 1 (Telegram app) works for most people
+
+
+
+---> **Contact admin for:** Verification codes, 2FA password, or support## 🎯 Why This Exists## 📞 Contact Admin> **Why This Exists:** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number (+57 313 531 6429) lets you **bypass regional restrictions** and access content that's blocked in your region.> **🌎 WHY THIS EXISTS:**
+
+
+
+## Contributing
+
+
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.---
+
+
+
+---
+
+
+
+## License## Method 1: Telegram App (Easiest)Many Telegram channels and groups are **geo-restricted in Asian countries** due to regional blocking. This project provides access to a **shared Colombian phone number account** that bypasses these restrictions, allowing you to:**For: Everyone**
+
+
+
+MIT License - see [LICENSE](LICENSE)
+
+
+
+---**⏱️ Time:** 2 minutes | **📱 Platform:** Any device
+
+
+
+<div align="center">
+
+
+
+**Created by [Abra](https://github.com/abraxas0001)**Perfect for users who just want to access geo-restricted content.- ✅ Access geo-blocked Telegram channels
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-abraxas0001-181717?style=flat-square&logo=github)](https://github.com/abraxas0001)
+
+
+
+---### Steps:- ✅ Join restricted groups and communities  
+
+
+
+⭐ Star if this helped you bypass geo-restrictions!
+
+
+
+🌍 **Access Freely • No Restrictions • Open Source**1. **Download Telegram**- ✅ View content not available in your region1. Download Telegram from https://telegram.org
+
+
+
+</div>   - Mobile: [Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [iOS](https://apps.apple.com/app/telegram-messenger/id686449807)
+
+
+   - Desktop: [telegram.org/apps](https://telegram.org/apps)- ✅ Communicate without VPN limitations
+
+
+
+2. **Login**- ✅ Use both mobile app AND command-line interfaces2. Login with: `+573135316429`<div align="center">> Many Telegram channels and groups are **geo-restricted** in Asian countries. This shared Colombian phone number account allows you to **bypass regional restrictions** and access content that would otherwise be blocked in your region.
+
+   - Open Telegram → Select Colombia (+57)
+
+   - Enter phone: `313 531 6429`
+
+
+
+3. **Get Verification Code**> **🌎 Colombian Number Benefits:** Colombia has unrestricted access to most Telegram content, making it perfect for bypassing Asian geo-blocks.3. Contact admin for verification code & 2FA password
+
+   - Contact [@TestingAccountHomies](https://t.me/TestingAccountHomies)
+
+   - Say: *"I need verification code"*
+
+   - Enter the code admin sends you
+
+---4. ✅ Done!
+
+4. **Enter 2FA Password**
+
+   - Telegram will ask for password
+
+   - Request from admin if you don't have it
+
+## ✨ Features
+
+5. **✅ Done!**
+
+   - Access any geo-restricted channel or group
+
+
+
+---<table>---<a href="https://t.me/TestingAccountHomies">---
+
+
+
+## Method 2: CLI/Web Interface (Advanced)<tr>
+
+
+
+**⏱️ Time:** 15 minutes | **💻 Platform:** Windows/Mac/Linux<td width="50%">
+
+
+
+Perfect for developers who want command-line or programmatic access.
+
+
+
+### Prerequisites### 📱 Official Telegram App### Method 2: CLI/Web Scripts (Advanced - 15 min)  <img src="https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram"/>
+
+
+
+- Python 3.8+- Zero setup required
+
+- Git
+
+- Telegram API credentials from [my.telegram.org](https://my.telegram.org)- Works on all devices
+
+
+
+### Installation- Full Telegram features
+
+
+
+```bash- Instant access in 2 minutes**For: Developers who want terminal/programmatic access**</a>> **⚠️ IMPORTANT SECURITY NOTICE:**
+
+# 1. Clone repository
+
+git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git
+
+cd CLI-Tg-Account-Homies
+
+</td>
+
+# 2. Install dependencies
+
+pip install -r requirements.txt<td width="50%">
+
+
+
+# 3. Create config file#### Setup:
+
+copy config.example.py config.py
+
+```### 💻 CLI & Web Interface
+
+
+
+### Configuration- Command-line control
+
+
+
+1. **Get API Credentials**- Browser-based UI
+
+   - Visit [my.telegram.org](https://my.telegram.org)
+
+   - Login with YOUR personal phone (not the shared one)- Programmatic access**1. Install:****Account Details:**## 📞 Contact Admin> - This account is **2FA-protected** and shared for public use
+
+   - Create app → Copy `api_id` and `api_hash`
+
+- Perfect for automation
+
+2. **Edit config.py**
+
+   ```python```bash
+
+   api_id = YOUR_API_ID          # From my.telegram.org
+
+   api_hash = "YOUR_API_HASH"    # From my.telegram.org</td>
+
+   session_name = "my_session"   # Any name
+
+   ```</tr>git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git- 📱 Phone: `+57 313 531 6429` (Colombian)
+
+
+
+### First Login</table>
+
+
+
+```bashcd CLI-Tg-Account-Homies
+
+python login.py
+
+```### Core Features:
+
+
+
+**Process:**- 🔐 **2FA Protected** - Secure password authenticationpip install -r requirements.txt- 👤 User ID: `7387738015`> - **Contact the administrator** to get pre-configured session files (easiest - no password needed!)
+
+1. Enter phone: `+573135316429` (the shared Colombian number)
+
+2. Get verification code from [@TestingAccountHomies](https://t.me/TestingAccountHomies)- 🌐 **Multi-Platform** - Mobile, Desktop, CLI, Web
+
+3. Enter the code
+
+4. Enter 2FA password (get from admin)- 🚀 **Fast Access** - Start using immediately```
+
+5. Session file created! ✅
+
+- 👥 **Shared Access** - Multiple users supported
+
+### Using CLI
+
+- 🔄 **Real-time Sync** - All devices stay synced- 🔐 2FA Password: **Request from admin**
+
+```bash
+
+python telegram_desktop_cli.py- 📊 **Admin Monitored** - Safe and controlled
+
+```
+
+**2. Get API credentials:**
+
+**Commands:**
+
+- `/list` - Show all chats---
+
+- `/read <number>` - Read messages from chat
+
+- `/send <number> <message>` - Send a message- Visit https://my.telegram.org (login with YOUR personal phone)<div align="center">> - The administrator monitors all activity and can terminate sessions remotely
+
+- `/me` - Show account info
+
+- `/quit` - Exit## 🚀 Quick Start
+
+
+
+**Note:** CLI requires 2FA password on every startup for security.- Create app → Copy `api_id` and `api_hash`
+
+
+
+### Using Web InterfaceChoose your preferred method:
+
+
+
+```bash</div>
+
+python telegram_web_app.py
+
+```| Method | Time | Difficulty | Best For |
+
+
+
+Then open: http://localhost:5000|--------|------|------------|----------|**3. Configure:**
+
+
+
+**Features:**| **Telegram App** | 2 min | ⭐ Easy | Everyone |
+
+- Visual Telegram interface
+
+- Send/receive messages| **CLI/Web Scripts** | 15 min | ⭐⭐⭐ Advanced | Developers |```bash> - Username may change frequently (it is dynamic)
+
+- Real-time updates
+
+- Dark theme
+
+
+
+**Note:** Web interface requires 2FA password on startup.---copy config.example.py config.py
+
+
+
+---
+
+
+
+## 🔐 Security & Rules## Method 1: Telegram App (Easiest)```---
+
+
+
+### ✅ What You CAN Do
+
+
+
+- Access any geo-blocked channels/groups### 📱 Perfect for everyone who just wants to access content
+
+- Read and send messages
+
+- View media and files
+
+- Use any interface (App, CLI, Web)
+
+- Share access info (direct users to admin)<details>Edit `config.py`:<a href="https://t.me/TestingAccountHomies">> - Do not attempt to terminate other sessions or change account settings
+
+
+
+### ❌ What You CANNOT Do<summary><b>Click to expand step-by-step guide</b></summary>
+
+
+
+- Change account settings```python
+
+- Terminate other sessions
+
+- Disable 2FA### Step-by-Step Instructions:
+
+- Change phone number
+
+- Abuse or spamapi_id = YOUR_API_ID## 🚀 Two Ways to Access
+
+
+
+> ⚠️ **Admin monitors all activity. Breaking rules = instant revocation.**#### 1️⃣ Download Telegram
+
+
+
+### 🔒 Security Model- **Mobile:** [Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) | [iOS](https://apps.apple.com/app/telegram-messenger/id686449807)api_hash = "YOUR_API_HASH"
+
+
+
+- **2FA Protection:** Password required for CLI/Web on every startup- **Desktop:** [Windows/Mac/Linux](https://desktop.telegram.org/)
+
+- **Admin Control:** Can revoke access anytime by changing password
+
+- **Monitoring:** All logins and actions are loggedsession_name = "my_session"  <img src="https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram"/>
+
+- **Sessions:** Admin can terminate specific sessions remotely
+
+#### 2️⃣ Start Login Process
+
+---
+
+- Open Telegram```
+
+## ❓ FAQ
+
+- Click **"Start Messaging"**
+
+<details>
+
+<summary><b>Q: I don't have the verification code or 2FA password</b></summary>- Select your country: **Colombia (+57)**### Method 1: Official Telegram App (Easiest - 2 minutes)
+
+
+
+**A:** Contact [@TestingAccountHomies](https://t.me/TestingAccountHomies) - admin provides both.- Enter phone number: **313 531 6429**
+
+</details>
+
+**4. First login:**
+
+<details>
+
+<summary><b>Q: Why does CLI ask for password every time?</b></summary>#### 3️⃣ Get Verification Code
+
+
+
+**A:** This is intentional for security. Ensures admin maintains control over account access.- Telegram will send a 6-digit code```bash</a>> **👉 RECOMMENDED FOR EVERYONE:** Get pre-configured session files from admin (see Method 1 below) - login instantly with zero setup!
+
+</details>
+
+- Contact admin: [@TestingAccountHomies](https://t.me/TestingAccountHomies)
+
+<details>
+
+<summary><b>Q: Can I use my own phone number?</b></summary>- Say: *"I need the verification code for login"*python login.py
+
+
+
+**A:** No! You must use `+573135316429` (the Colombian number). That's the whole point - it bypasses geo-restrictions.- Admin sends you the code within minutes
+
+</details>
+
+```**Perfect for: Everyone who just wants to access geo-restricted content**
+
+<details>
+
+<summary><b>Q: Do I need the CLI? Can I just use normal Telegram?</b></summary>#### 4️⃣ Enter Code
+
+
+
+**A:** Yes! Method 1 (official Telegram app) is recommended for most users. CLI is only for developers.- Type the code in Telegram- Enter phone: `+573135316429`
+
+</details>
+
+- Press **Continue**
+
+<details>
+
+<summary><b>Q: My session stopped working</b></summary>- Get verification code & 2FA from admin
+
+
+
+**A:** Admin may have changed password. Contact admin for new password and run `python login.py` again.#### 5️⃣ Get 2FA Password
+
+</details>
+
+- Telegram asks: *"Two-Step Verification"*- Session file created ✅
+
+<details>
+
+<summary><b>Q: Error: "Import 'config_loader' could not be resolved"</b></summary>- Message admin: *"I need the 2FA password"*
+
+
+
+**A:** Run `pip install -r requirements.txt` to install all dependencies.- Enter the password admin provides1. Download **Telegram** app (mobile/desktop) from https://telegram.org
+
+</details>
+
+
+
+---
+
+#### 6️⃣ ✅ Done!**5. Use CLI:**
+
+## 📂 Project Structure
+
+You're now logged in! Use Telegram normally to access any geo-restricted content.
+
+```
+
+CLI-Tg-Account-Homies/```bash2. Open Telegram → **Login with phone number****Account Details:**---
+
+├── config_loader.py          # Configuration loader
+
+├── config.example.py         # Config template### 🎉 What You Can Do Now:
+
+├── login.py                  # First-time login
+
+├── telegram_desktop_cli.py   # CLI interface- Join any channel or grouppython telegram_desktop_cli.py
+
+├── telegram_web_app.py       # Web interface
+
+├── verify_session.py         # Session checker- Send and receive messages
+
+├── requirements.txt          # Dependencies
+
+├── CONTRIBUTING.md           # Contribution guide- View media and files```3. Enter: `+573135316429` (the shared Colombian number)
+
+├── LICENSE                   # MIT License
+
+└── README.md                 # This file- Access content blocked in your region
+
+```
+
+- Use all standard Telegram features- Enter 2FA password (required every startup)
+
+---
+
+
+
+## 🤝 Contributing
+
+</details>- Commands: `/list`, `/read`, `/send`, `/quit`4. Telegram sends **verification code** to that number- 📱 Phone: `+57 313 531 6429` (Colombian)
+
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+
+
+**Ways to contribute:**
+
+- 🐛 Report bugs---
+
+- 💡 Suggest features
+
+- 🔧 Submit pull requests
+
+- 📖 Improve documentation
+
+- ⭐ Star the repository## Method 2: CLI/Web Interface (Advanced)**6. Or Web UI:**5. Message [@TestingAccountHomies](https://t.me/TestingAccountHomies) and say: *"I need the verification code"*
+
+
+
+---
+
+
+
+## 📜 License### 💻 For developers who want programmatic access```bash
+
+
+
+This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+
+
+
+---<details>python telegram_web_app.py6. Admin sends you the code → Enter it in Telegram- 👤 User ID: `7387738015`## 📞 Contact Admin for Access
+
+
+
+## 👤 Credits<summary><b>Click to expand complete setup guide</b></summary>
+
+
+
+<div align="center">```
+
+
+
+### Created by [Abra](https://github.com/abraxas0001)### Prerequisites:
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-abraxas0001-181717?style=flat-square&logo=github)](https://github.com/abraxas0001)- Python 3.8 or higher- Enter 2FA password7. Telegram asks for **2FA password**
+
+[![Telegram](https://img.shields.io/badge/Telegram-@TestingAccountHomies-2CA5E0?style=flat-square&logo=telegram)](https://t.me/TestingAccountHomies)
+
+- Git installed
+
+**Built with:** Python • Telethon • Flask
+
+- Terminal/Command prompt knowledge- Open: http://localhost:5000
+
+---
+
+- Your own Telegram API credentials (free from my.telegram.org)
+
+### 🌟 Support This Project
+
+8. Message admin: *"I need the 2FA password"*- 🔐 2FA Password: **Request from admin**
+
+If this helped you bypass geo-restrictions:
+
+---
+
+⭐ **Star this repository**  
+
+🔄 **Share with others**  ---
+
+💬 **Spread the word**
+
+### 🔧 Setup Instructions
+
+</div>
+
+9. Admin sends password → Enter it
+
+---
+
+#### Step 1: Clone Repository
+
+## ⚠️ Disclaimer
+
+```bash## 🔐 Security
+
+This is an unofficial Telegram client for **educational and accessibility purposes**.
+
+git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git
+
+- Users must comply with Telegram's Terms of Service
+
+- Respect local laws and regulationscd CLI-Tg-Account-Homies10. ✅ **Done!** Use Telegram normally to access geo-restricted channels<div align="center">
+
+- Use responsibly and ethically
+
+- Admin can revoke access at any time```
+
+
+
+**Purpose:** Provide access to geo-restricted content for legitimate research and communication.**2FA Required:** CLI/Web ask for password on every startup (admin maintains control)
+
+
+
+---#### Step 2: Install Dependencies
+
+
+
+<div align="center">```bash
+
+
+
+**🌍 Access Freely • No Geo-Restrictions • Open Source**pip install -r requirements.txt
+
+
+
+Made with ❤️ for the community```**Allowed:**
+
+
+
+</div>
 
 
 **What gets installed:**✅ Access geo-blocked content  **That's it! Simple and works on any device.**</div>
