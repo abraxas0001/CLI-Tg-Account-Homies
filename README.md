@@ -1,5 +1,4 @@
-🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
-
+🌍 CLI-Tg-Account-Homies# CLI
 
 
 **Bypass Telegram geo-restrictions using a shared Colombian account**
