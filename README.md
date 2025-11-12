@@ -7,10 +7,12 @@ A lightweight, user-friendly Telegram client that works in your terminal (CLI) o
 
 > **⚠️ IMPORTANT SECURITY NOTICE:**
 > - This account is **2FA-protected** and shared for public use
-> - **Contact the administrator** to get the 2FA password before login
+> - **Contact the administrator** to get access (easiest way - no technical setup!)
 > - The administrator monitors all activity and can change the password anytime
 > - Username may change frequently (it is dynamic)
 > - Do not attempt to terminate other sessions or change account settings
+
+> **👉 RECOMMENDED FOR BEGINNERS:** Contact admin for instant access (see Method 1 below) - no installation needed!
 
 ---
 
@@ -26,11 +28,11 @@ A lightweight, user-friendly Telegram client that works in your terminal (CLI) o
 
 **👉 Click above to message on Telegram**
 
-**You will receive:**
+**Account Details:**
 - 📱 Phone Number: `+57 313 531 6429` (Colombian number)
-- 🔐 2FA Password (changes regularly)
+- 🔐 2FA Password (admin provides when you request access)
 - 📨 Verification codes (admin receives and forwards to you)
-- 👤 Account details (User ID: 573135316429)
+- 👤 User ID: `7387738015`
 
 </div>
 
@@ -57,20 +59,70 @@ A lightweight, user-friendly Telegram client that works in your terminal (CLI) o
 
 ---
 
-## 🚀 Complete Step-by-Step Guide
+## 🚀 How to Get Access - Two Methods
 
-Follow these steps carefully to get started:
+Choose the method that suits your technical level:
 
-### **Step 1: Contact Admin for 2FA Password**
+### 🌟 **Method 1: Easy Way (Recommended for Beginners)**
+**⏱️ Takes: 5 minutes** | **Difficulty: Easy** | **Best for: Quick access without technical setup**
 
-Before doing anything else:
+Contact the admin directly and get instant access through their existing sessions:
+
+1. **Message [@TestingAccountHomies](https://t.me/TestingAccountHomies)** on Telegram
+2. Request: "I need access to the shared account"
+3. Admin will provide:
+   - 📱 **Pre-logged session** (ready to use)
+   - 🔐 **2FA password** (in case you need to re-login)
+   - 🔗 **Web interface link** (if available)
+4. ✅ **Start using immediately** - no setup needed!
+
+**What you get:**
+- Instant access to geo-restricted content
+- No Python installation required
+- No configuration needed
+- Admin handles all technical aspects
+
+---
+
+### 💻 **Method 2: CLI/Web Setup (Advanced)**
+**⏱️ Takes: 15-20 minutes** | **Difficulty: Intermediate** | **Best for: Developers who want local control**
+
+Set up the Telegram client on your own machine with full CLI/Web interface:
+
+**What you need from admin:**
+- 📱 Phone Number: `+57 313 531 6429`
+- 🔐 2FA Password (for login)
+- 📨 Verification codes (admin forwards when you login)
+
+**What you provide yourself:**
+- Your own Telegram API credentials (from my.telegram.org)
+- Python 3.8+ environment
+- Basic command-line knowledge
+
+**Use this method if you want to:**
+- Run the client on your own computer
+- Use CLI commands or local web interface
+- Have full control over the session
+- Automate tasks with scripts
+
+---
+
+## 📖 Complete Setup Guide (Method 2 - CLI/Web)
+
+> ⚠️ **New users: Try Method 1 first!** It's much easier. Only use this method if you need local CLI/Web access.
+
+Follow these steps carefully to set up the client on your machine:
+
+### **Step 1: Contact Admin for Credentials**
+
+Before starting the technical setup:
 
 1. Open Telegram and message: **[@TestingAccountHomies](https://t.me/TestingAccountHomies)**
-2. Send: "Hi, I need access to the shared Telegram account"
+2. Send: "Hi, I need access to the shared Telegram account for CLI setup"
 3. Admin will provide you with:
    - 📱 **Phone Number** (Colombian number: `+57 313 531 6429`)
    - 🔐 **2FA Password** (changes regularly for security)
-   - 👤 **Account Name** (currently varies - username changes frequently)
+   - 👤 **Account Info** (User ID: `7387738015`, name varies)
 4. **Save these credentials** - you'll need them during login
 
 > ⚠️ **IMPORTANT:** You MUST use the admin's phone number (+57 313 531 6429) to login, NOT your own number. This is a shared account specifically for bypassing geo-restrictions.
@@ -183,7 +235,7 @@ python login.py
    Name: [Admin's Name]
    Username: @[varies - changes frequently]
    Phone: +573135316429
-   User ID: 573135316429
+   User ID: 7387738015
    ```
 
 7. Session is saved as `my_session.session` (or whatever name you chose)
@@ -206,7 +258,7 @@ python telegram_desktop_cli.py
 ✅ Logged in as: [Admin's Name]
    Username: @[varies - changes frequently]
    Phone: +573135316429
-   User ID: 573135316429
+   User ID: 7387738015
 ======================================================================
 
 📱 Fetching your recent chats...
