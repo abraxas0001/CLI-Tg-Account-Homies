@@ -1,4 +1,4 @@
-# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
+# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
 
 
 
@@ -6,91 +6,185 @@
 
 
 
-**Bypass Telegram geo-restrictions with a shared Colombian account**<div align="center">
+**Bypass Telegram geo-restrictions using a Colombian account**<div align="center">
 
 
 
-[![Telegram](https://img.shields.io/badge/Contact-@TestingAccountHomies-2CA5E0?style=flat-square&logo=telegram)](https://t.me/TestingAccountHomies)
+[![Telegram](https://img.shields.io/badge/Admin-@TestingAccountHomies-2CA5E0?style=flat-square&logo=telegram)](https://t.me/TestingAccountHomies)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python)](https://python.org)
 
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)[![Telegram](https://img.shields.io/badge/Telegram-@TestingAccountHomies-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TestingAccountHomies)<div align="center">
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)**Bypass Telegram geo-restrictions with a shared Colombian account**<div align="center">
 
 
 
-</div>[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+</div>
 
 
 
----[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+## What is this?[![Telegram](https://img.shields.io/badge/Contact-@TestingAccountHomies-2CA5E0?style=flat-square&logo=telegram)](https://t.me/TestingAccountHomies)
 
 
 
-## Why This Exists[![Stars](https://img.shields.io/github/stars/abraxas0001/CLI-Tg-Account-Homies?style=for-the-badge&color=yellow)](https://github.com/abraxas0001/CLI-Tg-Account-Homies/stargazers)
+Access geo-blocked Telegram channels and groups using a shared Colombian phone number. Many channels are restricted in Asian countries - this bypasses those restrictions.[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python)](https://python.org)
 
 
+
+## Account Details[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)[![Telegram](https://img.shields.io/badge/Telegram-@TestingAccountHomies-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TestingAccountHomies)<div align="center">
+
+
+
+- 📱 **Phone:** `+57 313 531 6429`
+
+- 👤 **User ID:** `7387738015`
+
+- 💬 **Admin:** [@TestingAccountHomies](https://t.me/TestingAccountHomies)</div>[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
+
+
+## Quick Start
+
+
+
+### Method 1: Telegram App (Recommended)---[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+
+
+**Takes 2 minutes**
+
+
+
+1. Download [Telegram](https://telegram.org)## Why This Exists[![Stars](https://img.shields.io/github/stars/abraxas0001/CLI-Tg-Account-Homies?style=for-the-badge&color=yellow)](https://github.com/abraxas0001/CLI-Tg-Account-Homies/stargazers)
+
+2. Login with: `+573135316429`
+
+3. Get code & password from [@TestingAccountHomies](https://t.me/TestingAccountHomies)
+
+4. Done!
 
 Many Telegram channels and groups are geo-blocked in Asian countries. This shared Colombian phone number (`+57 313 531 6429`) bypasses these restrictions.[![Telegram](https://img.shields.io/badge/Telegram-@TestingAccountHomies-blue?style=for-the-badge&logo=telegram)](https://t.me/TestingAccountHomies)**Bypass Telegram geo-restrictions using a shared Colombian account**
 
+### Method 2: CLI/Web (For Developers)
 
+
+
+**Takes 15 minutes**
 
 **Access:**### 🚀 Bypass Telegram Geo-Restrictions
 
-- Geo-restricted channels & groups
+```bash
 
-- Blocked content in your region[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+# Clone and install- Geo-restricted channels & groups
+
+git clone https://github.com/abraxas0001/CLI-Tg-Account-Homies.git
+
+cd CLI-Tg-Account-Homies- Blocked content in your region[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+
+pip install -r requirements.txt
 
 - No VPN needed
 
-*Access blocked channels and groups using a shared Colombian account*
+# Configure
+
+copy config.example.py config.py*Access blocked channels and groups using a shared Colombian account*
+
+# Edit config.py with YOUR api_id and api_hash from my.telegram.org
 
 ---
 
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+# Login
 
-## Account Info
+python login.py[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[**Get Started**](#-quick-start) • [**Features**](#-features) • [**Documentation**](#-method-1-telegram-app-easiest) • [**Contributing**](CONTRIBUTING.md)
+# Use phone: +573135316429
+
+# Get verification code & 2FA from admin## Account Info
+
+
+
+# Use CLI[**Get Started**](#-quick-start) • [**Features**](#-features) • [**Documentation**](#-method-1-telegram-app-easiest) • [**Contributing**](CONTRIBUTING.md)
+
+python telegram_desktop_cli.py
 
 | | |
 
-|---|---|[![Stars](https://img.shields.io/github/stars/abraxas0001/CLI-Tg-Account-Homies?style=for-the-badge)](https://github.com/abraxas0001/CLI-Tg-Account-Homies/stargazers)
+# Or Web UI
+
+python telegram_web_app.py  # Then open localhost:5000|---|---|[![Stars](https://img.shields.io/github/stars/abraxas0001/CLI-Tg-Account-Homies?style=for-the-badge)](https://github.com/abraxas0001/CLI-Tg-Account-Homies/stargazers)
+
+```
 
 | 📱 Phone | `+57 313 531 6429` |
 
+**Commands:** `/list` `/read` `/send` `/me` `/quit`
+
 | 👤 User ID | `7387738015` |</div>
+
+> CLI/Web require 2FA password on startup for security
 
 | 🌍 Country | Colombia |
 
+## Rules
+
 | 💬 Admin | [@TestingAccountHomies](https://t.me/TestingAccountHomies) |> **Why?** Many Telegram channels and groups are **geo-blocked in Asian countries**. This shared Colombian phone number lets you **bypass regional restrictions** and access blocked content.**Bypass Telegram geo-restrictions using a shared Colombian account**
 
+**Allowed:** Access channels, read/send messages  
+
+**Not Allowed:** Change settings, terminate sessions, disable 2FA
 
 
-------
+
+## FAQ------
 
 
+
+**Q: Where to get codes/password?**  
+
+A: [@TestingAccountHomies](https://t.me/TestingAccountHomies)
 
 ## Getting Started**🚀 Bypass Telegram geo-restrictions with a shared Colombian account**
 
+**Q: Can I use my phone number?**  
+
+A: No - use `+573135316429` (the Colombian number)
 
 
-### Option 1: Telegram App (2 minutes)## 🎯 Why This Exists
+
+**Q: Why password every time?**  ### Option 1: Telegram App (2 minutes)## 🎯 Why This Exists
+
+A: Security - admin controls access
 
 
+
+## Contributing
 
 **For everyone - simplest way**
 
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+
+
+## License
 
 1. Download [Telegram](https://telegram.org)Many Telegram channels and groups are **geo-blocked in Asian countries**. This project provides access to a shared Colombian phone number that bypasses these restrictions.
 
+MIT License - [LICENSE](LICENSE)
+
 2. Login → Country: Colombia (+57) → Phone: `313 531 6429`
+
+---
 
 3. Get verification code from [@TestingAccountHomies](https://t.me/TestingAccountHomies)*Access channels and groups that are blocked in Asian countries*
 
+<div align="center">
+
 4. Get 2FA password from admin
 
+Created by [Abra](https://github.com/abraxas0001) • ⭐ Star if helpful!
+
 5. Done! ✅**Benefits:**
+
+</div>
 
 
 
