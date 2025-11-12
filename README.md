@@ -1,4 +1,4 @@
-# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# 🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
+🌍 CLI-Tg-Account-Homies# CLI-Tg-Account-Homies
 
 
 
