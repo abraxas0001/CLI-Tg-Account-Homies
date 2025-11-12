@@ -7,12 +7,12 @@ A lightweight, user-friendly Telegram client that works in your terminal (CLI) o
 
 > **⚠️ IMPORTANT SECURITY NOTICE:**
 > - This account is **2FA-protected** and shared for public use
-> - **Contact the administrator** to get access (easiest way - no technical setup!)
-> - The administrator monitors all activity and can change the password anytime
+> - **Contact the administrator** to get pre-configured session files (easiest - no password needed!)
+> - The administrator monitors all activity and can terminate sessions remotely
 > - Username may change frequently (it is dynamic)
 > - Do not attempt to terminate other sessions or change account settings
 
-> **👉 RECOMMENDED FOR BEGINNERS:** Contact admin for instant access (see Method 1 below) - no installation needed!
+> **👉 RECOMMENDED FOR EVERYONE:** Get pre-configured session files from admin (see Method 1 below) - login instantly with zero setup!
 
 ---
 
@@ -63,36 +63,47 @@ A lightweight, user-friendly Telegram client that works in your terminal (CLI) o
 
 Choose the method that suits your technical level:
 
-### 🌟 **Method 1: Easy Way (Recommended for Beginners)**
-**⏱️ Takes: 5 minutes** | **Difficulty: Easy** | **Best for: Quick access without technical setup**
+### 🌟 **Method 1: Pre-Configured Session (Easiest - Recommended)**
+**⏱️ Takes: 2 minutes** | **Difficulty: Zero** | **Best for: Everyone**
 
-Contact the admin directly and get instant access through their existing sessions:
+Get a pre-authenticated session file from the admin - no login required!
 
+**How it works:**
 1. **Message [@TestingAccountHomies](https://t.me/TestingAccountHomies)** on Telegram
-2. Request: "I need access to the shared account"
-3. Admin will provide:
-   - 📱 **Pre-logged session** (ready to use)
-   - 🔐 **2FA password** (in case you need to re-login)
-   - 🔗 **Web interface link** (if available)
-4. ✅ **Start using immediately** - no setup needed!
+2. Request: "I need the pre-configured session files"
+3. Admin will send you:
+   - � **`.session` file** (pre-authenticated)
+   - ⚙️ **`config.py`** (with API credentials already set)
+   - � **`requirements.txt`** (dependencies list)
+4. Download files, install dependencies, and run:
+   ```bash
+   pip install -r requirements.txt
+   python telegram_desktop_cli.py
+   ```
+5. ✅ **You're logged in instantly!** No password, no verification code needed!
 
-**What you get:**
-- Instant access to geo-restricted content
-- No Python installation required
-- No configuration needed
-- Admin handles all technical aspects
+**Why this is easiest:**
+- 🚀 Session file contains valid authentication tokens
+- 🔐 2FA password NOT required (session is already authenticated)
+- 📵 No verification codes needed
+- ⚡ Start using immediately after download
+
+**Important notes:**
+- Session remains valid even after admin changes 2FA password
+- To revoke your access, admin must terminate your session via Telegram Settings
+- Keep the `.session` file private - anyone with it can access the account
 
 ---
 
-### 💻 **Method 2: CLI/Web Setup (Advanced)**
-**⏱️ Takes: 15-20 minutes** | **Difficulty: Intermediate** | **Best for: Developers who want local control**
+### 💻 **Method 2: Manual Login (Advanced - For Developers)**
+**⏱️ Takes: 15-20 minutes** | **Difficulty: Intermediate** | **Best for: Users who want to create their own session**
 
-Set up the Telegram client on your own machine with full CLI/Web interface:
+Set up from scratch and create your own session file by logging in with the shared account.
 
 **What you need from admin:**
 - 📱 Phone Number: `+57 313 531 6429`
-- 🔐 2FA Password (for login)
-- 📨 Verification codes (admin forwards when you login)
+- 🔐 2FA Password (current password - changes regularly)
+- 📨 Verification codes (admin forwards each time you login)
 
 **What you provide yourself:**
 - Your own Telegram API credentials (from my.telegram.org)
@@ -100,18 +111,29 @@ Set up the Telegram client on your own machine with full CLI/Web interface:
 - Basic command-line knowledge
 
 **Use this method if you want to:**
-- Run the client on your own computer
-- Use CLI commands or local web interface
-- Have full control over the session
-- Automate tasks with scripts
+- Create your own session from scratch
+- Learn the technical setup process
+- Have full control over configuration
+- Understand how Telegram authentication works
+
+**When you need this:**
+- Admin didn't provide pre-configured files
+- Your session expired or was deleted
+- You want to set up on multiple devices
+- You prefer doing technical setup yourself
 
 ---
 
-## 📖 Complete Setup Guide (Method 2 - CLI/Web)
+## 📖 Complete Setup Guide (Method 2 - Manual Login)
 
-> ⚠️ **New users: Try Method 1 first!** It's much easier. Only use this method if you need local CLI/Web access.
+> ⚠️ **Most users should use Method 1 (pre-configured files)!** Only use this if you want to create your own session from scratch or if the session expires.
 
-Follow these steps carefully to set up the client on your machine:
+> 💡 **When do you need this?** Only if:
+> - Admin didn't provide session files
+> - Your `.session` file was deleted or expired
+> - You want to understand the technical login process
+
+Follow these steps carefully to manually create a new session:
 
 ### **Step 1: Contact Admin for Credentials**
 
@@ -306,8 +328,25 @@ Then open: http://localhost:5000
 
 ## ❓ Troubleshooting
 
+**"I have the .session file but it's not working"**
+- Make sure you also have `config.py` or `.env` with API credentials
+- Try: `pip install -r requirements.txt` first
+- Contact [@TestingAccountHomies](https://t.me/TestingAccountHomies) for help
+
+**"Do I need the 2FA password if I have the session file?"**
+- ❌ **NO!** Session files are pre-authenticated
+- You only need 2FA password if creating a NEW session with `login.py`
+- Pre-configured sessions work immediately without any password
+
+**"My session expired or stopped working"**
+- Admin may have terminated your session remotely
+- Contact admin for a new session file OR
+- Use Method 2 to create your own session (requires 2FA password)
+
 **"I don't have the 2FA password"**
-- Contact [@TestingAccountHomies](https://t.me/TestingAccountHomies) on Telegram
+- If you have pre-configured session files, you don't need it!
+- Only needed for Method 2 (manual login)
+- Contact [@TestingAccountHomies](https://t.me/TestingAccountHomies) if you need it
 
 **"I don't know the phone number"**
 - Use the shared Colombian number: `+573135316429`
@@ -320,6 +359,8 @@ Then open: http://localhost:5000
 
 **"I need the verification code"**
 - Ask the admin - the code goes to their phone, not yours
+- Only needed for Method 2 (manual login)
+- Method 1 (pre-configured files) doesn't need verification codes
 
 **"Import 'config_loader' could not be resolved"**
 - Make sure you ran `pip install -r requirements.txt`
